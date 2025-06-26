@@ -1,4 +1,4 @@
-# CMPG-323-Project-4---35383615
+Web Application Automation Testing
 
 ## Introduction
 
